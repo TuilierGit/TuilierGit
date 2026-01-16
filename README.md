@@ -8,7 +8,7 @@
   <a href="https://github.com/TuilierGit">
     <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=343434&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
   </a>
-  <a href="mailto:thomas.tuilier+contact.github@gmail.com">
+  <a href="mailto:thomas.tuilier%2Bcontact.github@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/thomas-tuilier-31655b24b/">
