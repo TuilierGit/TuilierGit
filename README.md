@@ -5,8 +5,8 @@
 ###
 
 <div align="center">
-  <a href="https://github.com/TuilierGit">
-    <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=343434&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
+  <a href="https://tuilier-thomas.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" height="35" alt="my portfolio"  />
   </a>
   <a href="mailto:thomas.tuilier%2Bcontact.github@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
